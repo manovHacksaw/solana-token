@@ -1,0 +1,40 @@
+{
+  "name": "Stardust Guardian #001",
+  "symbol": "MAC",
+  "description": "A lone guardian born from a collapsed nebula. It wields the power of nascent stars and protects the cosmic balance.",
+  "seller_fee_basis_points": 500,
+  "image": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986",
+  "animation_url": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986",
+  "external_url": "https://myawesomecollection.com",
+  "attributes": [
+    {
+      "trait_type": "Aura",
+      "value": "Nebula Glow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Cosmic"
+    },
+    {
+      "trait_type": "Level",
+      "value": 12
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Alpha"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "collection": {
+        "name": "My Awesome Collection",
+        "family": "My Awesome Collection"
+    }
+  }
+}
