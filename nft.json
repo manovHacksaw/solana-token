@@ -1,0 +1,43 @@
+{
+  "name": "The Dark Knight #001",
+  "symbol": "MAC",
+  "description": "A silent guardian, a watchful protector. This NFT represents the unwavering resolve of Gotham's iconic vigilante, captured in a moment of solitary surveillance against the city's stormy skyline.",
+  "seller_fee_basis_points": 500,
+  "image": "https://images.unsplash.com/photo-1518349619113-031d4b541335",
+  "external_url": "https://your-collection-website.com/nfts/001",
+  "attributes": [
+    {
+      "trait_type": "Identity",
+      "value": "Vigilante"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Urban Rooftop"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "Stormy"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "First Knight"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://images.unsplash.com/photo-1518349619113-031d4b541335",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "collection": {
+      "name": "My Awesome Collection",
+      "family": "My Awesome Collection"
+    }
+  }
+}
